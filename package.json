@@ -1,0 +1,14 @@
+{
+	"name":        "nodejs-twitter-api",
+	"description": "Example on how we can use node with twitter's API",
+	"author":      "KLVTZ <xjustinpagex@gmail.com>",
+	"main":        "twitter.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KLVTZ/nodejs-twitter-api"
+	},
+	"dependencies": {
+		"mongodb": "~2.0",
+		"twitter": "~1.0.1"
+	}
+}
