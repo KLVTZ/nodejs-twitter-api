@@ -8,7 +8,8 @@
 		"url": "https://github.com/KLVTZ/nodejs-twitter-api"
 	},
 	"dependencies": {
-		"mongodb": "~2.0",
-		"twitter": "~1.0.1"
+		"mongodb": "*",
+		"twitter": "*",
+		"dot-env": "*"
 	}
 }
